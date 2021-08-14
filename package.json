@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "♫ When I see you again. Aah oh, aah oh ♫",
   "main": "index.js",
+  "engines": {
+    "node": "16.6.x"
+  },
   "dependencies": {
     "@discordjs/opus": "^0.5.3",
     "@discordjs/voice": "^0.6.0",
