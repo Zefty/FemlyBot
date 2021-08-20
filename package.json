@@ -1,6 +1,6 @@
 {
-  "name": "femilybot",
-  "version": "1.0.0",
+  "name": "femlybot",
+  "version": "1.1.0",
   "description": "♫ When I see you again. Aah oh, aah oh ♫",
   "main": "index.js",
   "engines": {
@@ -45,12 +45,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Zefty/FemilyBot.git"
+    "url": "git+https://github.com/Zefty/FemlyBot.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Zefty/FemilyBot/issues"
+    "url": "https://github.com/Zefty/FemlyBot/issues"
   },
-  "homepage": "https://github.com/Zefty/FemilyBot#readme"
+  "homepage": "https://github.com/Zefty/FemlyBot#readme"
 }
