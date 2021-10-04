@@ -14,13 +14,13 @@ const subscriptions = new Map<Snowflake, MusicSubscription>();
 const domQuotes = [
 	"Money🤑 will come and go. We all know that. The most important thing in life will always be the people in this room 😭. Right here, right now.",
 	"I live my life 🧬 a quarter-mile at a time.⏩",
-	"I don’t have friends👨‍👧‍👧, I have a family. 😿",
+	"I don’t have friends👨‍👧‍👧, I've got family. 😿",
 	"Ride or die, remember? 🚗🚔",
 	"You don't turn your back on family.👪 Even when they do.",
 	"What did you put in that sandwich? 🥪",
-	"Don't come around here ever again. 💢👿",
 	"Why the smile? You lost. 🤣",
-	"You got schooled.🎒 Learn your lesson 🏫 and go home. 🏠"
+	"You got schooled.🎒 Learn your lesson 🏫 and go home. 🏠",
+	"The thing about street fights ... The street always win. 🔧"
 ]
 
 let avatarPath = '';
